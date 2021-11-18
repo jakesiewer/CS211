@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HangmanTuned
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=java.lang.String\ sha256(java.lang.String)
+comment3.params=s
+comment3.target=byte[]\ hexStringToByteArray(java.lang.String)
+numComments=4
